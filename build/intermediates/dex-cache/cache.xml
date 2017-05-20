@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\shahsid104\StudioProjects\SimpleDht\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="bd4c4d1c1fe8a2f3b221e306843c9d9dc548fa5c">
+        <dex dex="C:\Users\shahsid104\StudioProjects\SimpleDht\app\build\intermediates\pre-dexed\debug\instant-run_acff32fc6b547355cd870624625efc6684ad8711.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\shahsid104\StudioProjects\SimpleDht\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="9fb77b571743ce860cb779b22ef44dbf038272d9">
+        <dex dex="C:\Users\shahsid104\StudioProjects\SimpleDht\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_6e40b9b7cb10a78ad32f1faa3b0a04b5c0a93c34.jar" />
+    </item>
+
+</items>
